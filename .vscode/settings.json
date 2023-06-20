@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#b400cc",
+        "editor.background": "#231f23",
+        "statusBar.background": "#73317c",
+        "list.activeSelectionBackground": "#5e3f66",
+        "focusBorder": "#b71bff",
+        "editor.selectionBackground": "#483352",
+        "editorCursor.foreground": "#f4a4ff",
+        "editor.lineHighlightBackground": "#8d438313",
+        "editor.hoverHighlightBackground": "#8d438313",
+        "activityBar.background": "#372C09",
+        "titleBar.activeBackground": "#4C3E0D",
+        "titleBar.activeForeground": "#FCF9F0"
+    }
+}
