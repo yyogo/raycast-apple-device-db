@@ -13,8 +13,8 @@
     {
       "name": "index",
       "title": "Apple devices",
-      "subtitle": "Show a list of Apple devices and SOCs",
-      "description": "",
+      "subtitle": "List devices and SOCs",
+      "description": "Show a list of Apple devices and SOCs",
       "mode": "view",
       "keywords": ["imodels", "idevices", "iphone", "ipad"]
     }
